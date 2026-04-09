@@ -2,19 +2,12 @@
 <h3 align="center">Backend Engineer | Spring Boot, MERN | Low-Latency APIs & Scalable Systems</h3>
 
 - 🔭 I’m currently working on **Scalable Backend APIs & Data Pipeline Systems**
-
 - 🌱 I’m currently learning **System Design, Distributed Systems, and AI Integrations**
-
 - 👯 I’m looking to collaborate on **Full Stack / Backend Projects (MERN, Spring Boot, Real-Time Apps)**
-
 - 🤝 I’m looking for help with **ystem Design & Distributed Systems**
-
 - 💬 Ask me about **Java, MERN Stack, REST APIs, System Design**
-
 - 📫 How to reach me **vermarahul72787@gmail.com**
-
 - 📄 Know about my experiences [https://tinyurl.com/resume-rahulV](https://tinyurl.com/resume-rahulV)
-
 - ⚡ Fun fact **I enjoy optimizing systems, improving performance, and diving deep into how things work behind the scenes**
 
 <h3 align="left">Connect with me:</h3>
