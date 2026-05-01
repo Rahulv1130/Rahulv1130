@@ -56,7 +56,7 @@
 ## 🚀 Work Experience
 
 ### 💼 Backend Developer — Salescode.ai  
-📅 Sept 2025 – Mar 2026  |  🌍 Remote  
+📅 Sept 2025 – Mar 2026  |  🌍 Full Time ( In Office )  
 
 - Built and optimized high-performance REST APIs using Spring Boot, achieving response times of <200ms for enterprise use cases (Coca-Cola SFA system).
 - Designed and implemented data pipelines (ETL) involving transformers, enrichments, and validations for multi-source data integration (eB2B + ML APIs).
