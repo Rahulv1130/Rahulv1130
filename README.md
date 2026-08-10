@@ -9,7 +9,7 @@
 - 🤝 I’m looking for help with **ystem Design & Distributed Systems**
 - 💬 Ask me about **Java, MERN Stack, REST APIs, System Design**
 - 📫 How to reach me **vermarahul72787@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WigrkJ-lNMaVuWLn-9rQi782p2jGN9cN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Omi0mkoSz2qZ__Gr0wY28Yf_SdKYLaSo/view?usp=sharing)
 - ⚡ Fun fact **I enjoy optimizing systems, improving performance, and diving deep into how things work behind the scenes**
 
 <br>
