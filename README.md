@@ -55,6 +55,18 @@
 
 ## 🚀 Work Experience
 
+
+### 🤖 GenAI Full Stack Intern — Nebula9.ai
+📅 May 2026 – Present | 🌍 Full Stack / GenAI ( Remote )
+
+- Architected Meridian, a multi-tenant AI-guided discovery platform for a real client MVP using Next.js, Supabase/PostgreSQL, and Gemini, featuring a conversational AI agent for automated process mapping.
+- Built AI workflows that automated 2–5 hours of manual advisor effort per engagement through conversational discovery and structured process mapping.
+- Designed a scalable RAG pipeline using Tree-sitter, OpenAI Embeddings, Qdrant, and Neo4j for semantic code retrieval and large-repository understanding.
+- Developed cloud-native backend services using Docker, Redis, PostgreSQL, GitHub APIs, and Google Cloud Run, supporting asynchronous repository indexing and AI-powered engineering workflows.
+- Built and integrated AI agents using LangGraph, enabling autonomous reasoning, tool calling, workflow automation, and code-related tasks.
+- Worked with MCP-based integrations to connect AI systems with external APIs and enterprise development tools.
+
+
 ### 💼 Backend Developer — Salescode.ai  
 📅 Sept 2025 – Mar 2026  |  🌍 Full Time ( In Office )  
 
@@ -64,3 +76,12 @@
 - Improved system performance using efficient querying, caching strategies, and optimized API flows.
 - Worked on production bug fixes, CR Jira tickets, and real-time system enhancements, ensuring high system reliability.
 - Contributed to backend systems using Kafka, Docker, and MySQL, supporting scalable and maintainable architecture.
+
+<br>
+
+## 🏆 Certifications
+
+**Claude Code Certified Architect Foundations**  |  [Credly](https://www.credly.com/badges/abd15807-ef5d-4141-8223-00222304cf3e)
+
+Cleared the Claude Code Certified Architect Foundations certification, demonstrating practical understanding of AI-assisted software development, agentic coding workflows, and AI-native engineering practices.
+
